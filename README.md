@@ -9,3 +9,5 @@
 ### A saída do código pode ser conferida à seguir:
 
 ![Alt text](https://i.imgur.com/bEHymJx.png)
+
+*** Desenvolvido por Carol Farah.
